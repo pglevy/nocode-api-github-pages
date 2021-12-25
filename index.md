@@ -19,5 +19,5 @@ For more details, see the [README](https://github.com/githubfornocoders/nocode-a
 
 <div class="d-flex mt-6">
 <button id="copy" data-clipboard-text="{{ site.url }}{{ site.baseurl }}/api.json" class="btn-mktg btn-large-mktg mr-3">Copy link to clipboard</button>
-<a href="{{ site.url }}{{ site.baseurl }}/api.json" class="btn-mktg btn-muted-mktg btn-large-mktg" target="_blank">Open link</a>
+<a href="{{ site.url }}nocode-api-github-pages/api.json" class="btn-mktg btn-muted-mktg btn-large-mktg" target="_blank">Open link</a>
 </div>
